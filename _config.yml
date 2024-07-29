@@ -20,6 +20,8 @@ description: "..." # This will show up in places like twitter, linkedin, etc, if
 #########################################################################################
 theme: "minima"
 
+sass:
+  sass_dir: css
 rss: rss
 
 kramdown:
