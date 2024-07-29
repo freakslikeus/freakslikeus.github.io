@@ -47,6 +47,7 @@ hr {
 .post_navi-label {
   font-size: 0.8em;
   opacity: 0.5;
+  font-family: ft88-italic;
 }
 
 .post_navi .post_navi-item {
@@ -88,10 +89,9 @@ body {
 
 a { 
  color: #CBF3D2 !important;
- font-family: ft88-italic;
 }
 
-.post-title { 
+.post-title, .post-link { 
  color: #CBF3D2 !important;
  font-family: ft88-italic;
 }
