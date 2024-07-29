@@ -44,20 +44,23 @@ hr {
 }
 
 body { 
- background-color: #120D31;
- background: #120D31;
- color: #F0D3F7;
+ background-color: #120D31 !important;
+ background: #120D31 !important;
+ color: #F0D3F7 !important;
 }
 
 a { 
- color: #302F4D;
+ color: #302F4D !important;
 }
 
 .site-title {
-  color: #A57982;
+  color: #A57982 !important;
 }
 
 .post-meta {
-  color: #B98EA7;
+  color: #B98EA7 !important;
 }
 
+pre {
+  color: #302F4D !important;
+}
