@@ -45,6 +45,20 @@ hr {
 }
 
 body { 
- background-color: #313131;
- background: #313131;
+ background-color: #120D31;
+ background: #120D31;
+ color: #F0D3F7;
 }
+
+a { 
+ color: #302F4D;
+}
+
+.site-title {
+  color: #A57982;
+}
+
+.post-meta {
+  color: #B98EA7;
+}
+
