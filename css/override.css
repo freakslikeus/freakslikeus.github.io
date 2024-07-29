@@ -4,6 +4,36 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: ft88-school;
+    src: url("../FT88-School.woff") format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: ft88-gothique;
+    src: url("../FT88-Gothique.woff") format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: ft88-school;
+    src: url("../FT88-School.woff") format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: ft88-serif;
+    src: url("../FT88-Serif.woff") format('woff');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: abordage;
+    src: url("../Abordage-Regular.woff") format('woff');
+    font-style: normal;
+}
+
 hr {
   margin-top: 30px;
   margin-bottom: 20px;
@@ -53,15 +83,17 @@ body {
  background-color: #120D31 !important;
  background: #120D31 !important;
  color: #F0D3F7 !important;
+ font-family: abordage
 }
 
 a { 
  color: #CBF3D2 !important;
+ font-family: ft88-italic;
 }
 
 .site-title {
   color: #CBF3D2 !important;
-  font-family: BianZhiDai, Helvetica, sans-serif;
+  font-family: ft88-school, sans-serif;
 }
 
 .post-meta {
