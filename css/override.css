@@ -91,13 +91,19 @@ a {
  font-family: ft88-italic;
 }
 
+.post-title { 
+ color: #CBF3D2 !important;
+ font-family: ft88-italic;
+}
+
 .site-title {
   color: #CBF3D2 !important;
   font-family: ft88-school, sans-serif;
 }
 
 .post-meta {
-  color: #B98EA7 !important;
+  color: #B98EA7 !important;  
+  font-family: ft88-italic;
 }
 
 pre, code {
